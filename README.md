@@ -1,4 +1,5 @@
--  Hi, I’m Therenz! from Cebu.
+-  Hi, I’m Therenz.
+-  Currently living here in Cebu.
 -  A BSIT 1st year Student.
 -  I’m interested in Web Development.
 -  I’m currently learning HTML, CSS, C ( having a hard time learning with the JS )..
